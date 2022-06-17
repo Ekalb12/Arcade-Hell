@@ -24,5 +24,6 @@ public class PlayerMove : MonoBehaviour
 
     void FixedUpdate()
     {
+
     }
 }
